@@ -1,5 +1,8 @@
 # simpl.fyi
 
+## Note
+Since Simplify has left open-source, I felt it was important to archive the last version of this great extension before its MIT license was removed from the repository, specifically commit [7d5a8193a3de53ae506eeea87dbc20b868586a0a](https://github.com/leggett/simplify/tree/7d5a8193a3de53ae506eeea87dbc20b868586a0a).
+
 A browser extension that brings the simplicity of Google Inbox to Gmail.
 
 ## How to use Simplify
